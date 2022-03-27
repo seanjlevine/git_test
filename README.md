@@ -1,3 +1,3 @@
 # git_test
 This is my first GitHub repository.
-Thank you Odin.
+Thanks to you Odinites,  I appreciate it.
